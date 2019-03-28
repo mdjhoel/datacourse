@@ -1,0 +1,13 @@
+{
+    "students": {
+        "scott": {"name":"Scott", "year":2005},
+        "eva": {"name":"Eva", "year":2006},
+        "roy": {"name":"Roy", "year":2006},
+        "jonkun": {"name":"Jonkun", "year":2007},
+        "leo": {"name":"Leo", "year":2007},
+        "alex": {"name":"Alex", "year":2007},
+        "vic": {"name":"Vic", "year":2006},
+        "frankie": {"name":"Frankie", "year":2007},
+        "eden": {"name":"Eden", "year":2006}
+    }
+}
