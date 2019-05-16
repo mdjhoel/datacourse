@@ -28,10 +28,6 @@ data = [
         "population": "14909"
     },
     {
-        "country": "Antarctica",
-        "population": null
-    },
-    {
         "country": "Antigua and Barbuda",
         "population": "102012"
     },
@@ -112,16 +108,8 @@ data = [
         "population": "2291661"
     },
     {
-        "country": "Bouvet Island",
-        "population": null
-    },
-    {
         "country": "Brazil",
         "population": "209288278"
-    },
-    {
-        "country": "British Indian Ocean Territory",
-        "population": null
     },
     {
         "country": "Brunei",
@@ -252,10 +240,6 @@ data = [
         "population": "6377853"
     },
     {
-        "country": "England",
-        "population": null
-    },
-    {
         "country": "Equatorial Guinea",
         "population": "1267689"
     },
@@ -298,10 +282,6 @@ data = [
     {
         "country": "French Polynesia",
         "population": "283007"
-    },
-    {
-        "country": "French Southern territories",
-        "population": null
     },
     {
         "country": "Gabon",
@@ -366,10 +346,6 @@ data = [
     {
         "country": "Haiti",
         "population": "10981229"
-    },
-    {
-        "country": "Heard Island and McDonald Islands",
-        "population": null
     },
     {
         "country": "Holy See (Vatican City State)",
@@ -548,10 +524,6 @@ data = [
         "population": "129163276"
     },
     {
-        "country": "Micronesia, Federated States of",
-        "population": null
-    },
-    {
         "country": "Moldova",
         "population": "4051212"
     },
@@ -630,10 +602,6 @@ data = [
     {
         "country": "North Korea",
         "population": "25490965"
-    },
-    {
-        "country": "Northern Ireland",
-        "population": null
     },
     {
         "country": "Northern Mariana Islands",
@@ -752,10 +720,6 @@ data = [
         "population": "32938213"
     },
     {
-        "country": "Scotland",
-        "population": null
-    },
-    {
         "country": "Senegal",
         "population": "15850567"
     },
@@ -790,10 +754,6 @@ data = [
     {
         "country": "South Africa",
         "population": "56717156"
-    },
-    {
-        "country": "South Georgia and the South Sandwich Islands",
-        "population": null
     },
     {
         "country": "South Korea",
@@ -852,10 +812,6 @@ data = [
         "population": "69037513"
     },
     {
-        "country": "The Democratic Republic of Congo",
-        "population": null
-    },
-    {
         "country": "Togo",
         "population": "7797694"
     },
@@ -912,10 +868,6 @@ data = [
         "population": "324459463"
     },
     {
-        "country": "United States Minor Outlying Islands",
-        "population": null
-    },
-    {
         "country": "Uruguay",
         "population": "3456750"
     },
@@ -934,18 +886,6 @@ data = [
     {
         "country": "Vietnam",
         "population": "95540800"
-    },
-    {
-        "country": "Virgin Islands, British",
-        "population": null
-    },
-    {
-        "country": "Virgin Islands, U.S.",
-        "population": null
-    },
-    {
-        "country": "Wales",
-        "population": null
     },
     {
         "country": "Wallis and Futuna",
